@@ -1,3 +1,5 @@
+
+
 nav {
     font-family: good-times, sans-serif;
     font-weight: 700;
@@ -11,3 +13,22 @@ nav {
     object-fit: cover;
 }
 
+.calendar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calendariframe {
+    width: 85% !important;
+    height: 75vh !important;
+    margin-top: 30px;
+}
+
+.bodyschedule {
+    background: url("/img/W5iCKyh.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
