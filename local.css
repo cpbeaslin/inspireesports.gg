@@ -6,11 +6,12 @@ nav {
     font-style: normal;
 }
 
-.bg1 {
-    min-height: calc(100vh - 56px);
-    width: 100% !important;
-    max-height: calc(100vh - 56px);
-    object-fit: cover;
+.mainbody {
+    background: url("/img/6VHNEXM.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .calendar {
@@ -21,7 +22,7 @@ nav {
 
 .calendariframe {
     width: 85% !important;
-    height: 75vh !important;
+    height: 70vh !important;
     margin-top: 30px;
 }
 
