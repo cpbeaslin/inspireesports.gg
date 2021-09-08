@@ -1,0 +1,13 @@
+nav {
+    font-family: good-times, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bg1 {
+    min-height: calc(100vh - 56px);
+    width: 100% !important;
+    max-height: calc(100vh - 56px);
+    object-fit: cover;
+}
+
